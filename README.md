@@ -8,5 +8,5 @@
 - 📫 Como falar comigo: gabrielymoraisn.1@gmail.com
 
 ### Linguagens Mais Usadas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielymorais&layout=compact&theme=radical)
 
