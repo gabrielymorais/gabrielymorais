@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=60&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&color=483D8B&size=32&duration=5000&pause=2000&center=true&vCenter=true&width=1000&lines=Oi+;Eu+sou+a+Gabriely;Estudante+de+Analise+e+Desenvolvimento+de+Sistemas🤖;Frontend+Developer; )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&color=483D8B&size=32&duration=3000&pause=2000&center=true&vCenter=true&width=1000&lines=Oi+;Eu+sou+a+Gabriely;Estudante+de+Analise+e+Desenvolvimento+de+Sistemas🤖;Frontend+Developer; )](https://git.io/typing-svg)
  
  - 💻 Iniciante em desenvolvimento Front-end
  - 📚 Atualmente aprendendo HTML, CSS, JavaScript e React
