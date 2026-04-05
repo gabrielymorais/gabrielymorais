@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&color=483D8B&size=32&duration=3000&pause=2000&center=true&vCenter=true&width=1000&lines=Oi+;Eu+sou+a+Gabriely;Estudante+de+Analise+e+Desenvolvimento+de+Sistemas🤖;Frontend+Developer; )](https://git.io/typing-svg)
  
- - 💻 Desenvolvedsora Front-end
+ - 💻 Desenvolvedora Front-end
  - 📚 Atualmente aprendendo HTML, CSS, JavaScript, Angular, Frontend
  - 🛠 Técnica em Redes de Computadores pelo IFCE
  - 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas no IFCE
